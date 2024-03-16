@@ -1,4 +1,3 @@
-console.log("jsg")
 const accountId=14432
 let accountEmail="mishan@gmail.com"
 var accountPass="sauhduy6"
