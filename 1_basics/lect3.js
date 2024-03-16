@@ -17,3 +17,4 @@ console.table([accountId,accountEmail,accountPass,accountCity,accountState])
 
 
 
+console.log(accountCity)
