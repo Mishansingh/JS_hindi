@@ -4,7 +4,7 @@ var accountPass="sauhduy6"
 accountCity="gaya"
 
 //accountId=29898->const cant be changed
-/*prefer not to use var bcoz it has scope related issues*/
+/*prefer not to use var bcoz it has scope related issues so use let*/
 
 accountEmail="kmkajdjw2gmail.com"
 accountPass="jhferufhu"
@@ -14,7 +14,3 @@ let accountState;
 console.log(accountId)
 
 console.table([accountId,accountEmail,accountPass,accountCity,accountState])
-
-
-
-console.log(accountCity)
